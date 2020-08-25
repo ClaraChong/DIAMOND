@@ -2,7 +2,7 @@
 
 Statistical analyses conducted using R (version 3.5.0 and 3.6.1)
 
-PERMANOVA (adonis function in vegan R package, 10,000 permutations) was used to quantify the contributions of covariates to the observed variance in microbial beta diversities
+PERMANOVA (adonis function in vegan, version 2.5.6, 10,000 permutations) was used to quantify the contributions of covariates to the observed variance in microbial beta diversities
 
 MaAsLin2 was used to idetify associations between individual microbial taxa, that were present in ≥ 10% of the samples
 
