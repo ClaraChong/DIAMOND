@@ -2,7 +2,9 @@
 title: 'DIAMOND: 16S amplicon and shotgun metagenomic analysis'
 author: "Clara Chong"
 date: "16/08/2020"
-output: rmarkdown::github_document
+output: 
+  html_document:
+    keep_md: true
 ---
 
 #(A) 16S
